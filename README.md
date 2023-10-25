@@ -10,18 +10,7 @@ For my project, I chose the topic of gambling because I'm really interested in i
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
 
 ## Links
-
-[Product]()
-
-[Presentation]()
-
-## Implications
-##### PROS
-* 
-##### CONS
-* 
-
-
+I used an article about ["Casinos all around the world"](https://www.statista.com/topics/1053/casinos/#topicOverview)
 ## Blog
 Below you will find my blog about how I made my project.
 
