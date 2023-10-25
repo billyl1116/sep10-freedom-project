@@ -22,6 +22,8 @@ I spend a few minutes every day researching and doing my work.
 ### How to research
 I search up what I'm going to write about and when it give me all the articles, I pick the ones that have the **most fitting topic first**, and I ask people around me or personal experiments to get information I need.
 
+## EDP
+Now, I am on the Step 1 of me researching about my topic and the Step 2 researching step of the EDP. At first, I pick what I'm most passionate about. Then, I do more deep research about how I'm going to do the project. I think It's going to take me something until I move on to the next step, because I still have a more to learn.
 ## Blog
 Below you will find my blog about how I made my project. 
 
