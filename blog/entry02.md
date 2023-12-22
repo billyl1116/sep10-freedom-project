@@ -70,7 +70,9 @@ Online gambling apps that allow people to put money online and gamble with their
 
 ## Skills
 
-### Time managingment
+### Time management
+
+When doing research about the topic on google, I spend a few hours when I have extra time and collect information. Something about it works out very well for me is when I spend time doing research in that kind of condition, time passes by really fast and it won't affect me much since I have nothing to do at that time, and by doing research I'm finding something for myself to do.
 
 
 
@@ -82,4 +84,5 @@ Online gambling apps that allow people to put money online and gamble with their
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
+
 
