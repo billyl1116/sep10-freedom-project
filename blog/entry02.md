@@ -23,7 +23,16 @@ Online gambling apps that allow people to put money online and gamble with their
 * Keno is a lottery-like gambling game often played at modern casinos, and also offered as a game in some lotteries.
 * [more information](https://www.britannica.com/topic/keno)
 
+### BC Tesserae
 
+* It a six sided dice
+* People in roman used this and whoever got the higher number wins.
+[More Information](https://www.britannica.com/art/opus-alexandrinum)
+
+### Cards
+
+* The first cards are found to be in China around the before AD1000
+* [More Information](https://www.theguardian.com/notesandqueries/query/0,5753,-2647,00.html#:~:text=PLAYING%20cards%20were%20invented%20by,the%20Mameluke%20empire%20of%20Egypt.)
 
 
 
