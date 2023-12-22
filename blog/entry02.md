@@ -68,7 +68,9 @@ Online gambling apps that allow people to put money online and gamble with their
  mitigate risk.
 * [More Information](https://www.econnectglobal.com/)
 
+## Skills
 
+### Time managingment
 
 
 
