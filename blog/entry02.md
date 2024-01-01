@@ -74,7 +74,9 @@ Online gambling apps that allow people to put money online and gamble with their
 
 When doing research about the topic on google, I spend a few hours when I have extra time and collect information. Something about it works out very well for me is when I spend time doing research in that kind of condition, time passes by really fast and it won't affect me much since I have nothing to do at that time, and by doing research I'm finding something for myself to do.
 
+### Process of researching
 
+When doing the research I mostly look it up on google, and search for what I'm desired for and it would show a lot of websites, and I used the one that I think has the most information I need and used that as the website I use to get information at. When searching up information on google I as things like **history of gambling** and **development of gambling**
 
 
 
