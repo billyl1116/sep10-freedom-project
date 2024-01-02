@@ -5,6 +5,10 @@
 
 ever since entry 1 I have been researching software and hardware technologies people created or used for gambling, using google and surprisingly there's quite a lot of them, and the history of them can be pretty old.
 
+## Engineering Design Process
+
+I am currently in the second stage of the engineering design process, where the main goal is to research the information about my topic. The topic are **The history of gambling**. The next stage is to research about the history and I plan to use not only articles and websites, but to also talk to my friend and those around me to find more ideas about my project.
+
 ### App/Online website
 
 Online gambling apps that allow people to put money online and gamble with their phone or computers.
