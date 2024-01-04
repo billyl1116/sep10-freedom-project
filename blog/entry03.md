@@ -30,6 +30,7 @@ For brainstorming, first I think about what people have now, and the problem peo
 * Throw a tomato at someone’s face
 * Pushing people
 * (Of course you can’t do that in irl but you can do it in VR.)
+
 ### AI gambling helper
 1. Having an AI to help you see your gambling history
 2. Show you the percentage of winning, by how much you won by betting on your style and the possible outcome
@@ -38,6 +39,21 @@ For brainstorming, first I think about what people have now, and the problem peo
 4. If you get addicted AI and tell you to stop
 Forcefully shutting down your devised
 Giving you warning 
+
+## Skills
+
+
+### Time organization
+
+
+when doing the brainstorming I need to spend time to organized my note and think about the ideas for the project
+
+
+### Reviewing note
+
+
+When doing the brainstorming I need to go back to my notes, many times to check and gain an idea of how I'm going to write about the future idea.
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
