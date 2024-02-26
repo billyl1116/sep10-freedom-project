@@ -2,7 +2,7 @@
 ##### 12/18/23
 
 ## Future ideas for gambling
-After entry 2 of collecting information about gambling, in entry 3 I brainstormed about the future ideas for gambling, and I searched up information for ideas about what gambling may have in the future.
+After entry 02 of collecting information about gambling, in entry 3 I brainstormed about the future ideas for gambling, and I searched up information for ideas about what gambling may have in the future.
 
 ## Engineering Design Process
 I am currently in the third stage of the engineering design process, where the main goal is to brainstorm about future ideas for gambling for their technologies. The topic are **What gambling look like in the future**. The next stage is to research about the technology people are coming up with and some ideas people are working on right now that may happen in the future and I look up on others projects and gain an idea for my ideas.

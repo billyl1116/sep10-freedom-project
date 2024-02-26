@@ -3,7 +3,7 @@
 
 ## Software and Hardware Technologies
 
-ever since entry 1 I have been researching software and hardware technologies people created or used for gambling, using google and surprisingly there's quite a lot of them, and the history of them can be pretty old.
+ever since entry 01 I have been researching software and hardware technologies people created or used for gambling, using google and surprisingly there's quite a lot of them, and the history of them can be pretty old.
 
 ## Engineering Design Process
 
