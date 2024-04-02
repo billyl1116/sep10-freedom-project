@@ -38,3 +38,49 @@ Example:
   animation-duration: 2s; /* don't forget to set a duration! */
 }
 ```
+
+**Basic Animations:**
+
+Fade In / Out
+Slide In / Out
+Bounce In / Out
+Rotate In / Out
+Zoom In / Out
+Flip In / Out
+Roll In / Out
+And more...
+
+**Attention Seekers:**
+
+Bounce
+Flash
+Pulse
+Shake
+Head Shake
+Tada
+Jello
+And more...
+
+
+**Special Effects:**
+
+Hinge
+Jack in the Box
+Roll Out
+Rubber Band
+Swing
+And more...
+
+**Entrances and Exits:**
+
+Fade In Down / Up / Left / Right
+Slide In Down / Up / Left / Right
+Zoom In Down / Up / Left / Right
+Flip In X / Y
+Rotate In Down Left / Down Right / Up Left / Up Right
+And more...
+
+**Duration and Delay:**
+
+Control animation duration with animate__slow and animate__fast classes.
+Add delay to animations using animate__delay-{time} class
