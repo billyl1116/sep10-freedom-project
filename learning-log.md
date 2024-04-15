@@ -84,3 +84,9 @@ And more...
 
 Control animation duration with animate__slow and animate__fast classes.
 Add delay to animations using animate__delay-{time} class
+
+
+
+**Jsbin link**
+
+https://jsbin.com/rixiluxefe/1/edit?html,css,output
