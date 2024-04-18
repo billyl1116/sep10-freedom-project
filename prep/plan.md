@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](wireframe2.png)
+* [Desktop](wd/classwork/sep10-freedom-project/img/wireframe1.png)
 
 ## Colors
 * `#ABC123`
