@@ -11,8 +11,8 @@
   }
 
 
-navbar {
-    postion: 
+.navbar{
+    background-color: purple;
 }
 
 
@@ -39,3 +39,54 @@ navbar {
     color: white;
   }
 
+
+.title-text{
+  text-align: center;
+  padding-bottom: 70px;
+
+}
+
+.title-text p{
+  margin: auto;
+  font-size: 20px;
+  color:#c468ee ;
+  font-weight: bold;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+}
+
+
+#Content{
+
+  #Description-Gambling{
+    width: 100%;
+    padding: 70px 0;
+    background: #efefef;
+  }
+
+  .title-text{
+    text-align: center;
+    padding-bottom: 70px;
+  }
+
+  .Description{
+    text-align: center;
+  }
+
+
+  /*--Description-of-the-dlc--*/
+
+  #Description-of-the-dlc{
+    width: 100%;
+    padding: 70px 0;
+  }
+
+  .title-text{
+    text-align: center;
+    padding-bottom: 70px;
+  }
+
+  .Description-Gambling{
+    text-align: center;
+  }
