@@ -1,7 +1,17 @@
 # Entry 6
-##### X/X/XX
+##### 5/1/24
 
-Text
+## Content
+
+
+
+
+
+
+
+
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
