@@ -73,19 +73,7 @@
   font-weight: bold;
   color: #c468ee;
 }
-.title-text p::after{
-  content: '';
-  width: 50px;
-  height: 35px;
-  background: linear-gradient(#c468ee,#ffffff);
-  position: absolute;
-  top: -20px;
-  left: 0;
-  z-index: -1;
-  transform: rotate(10deg);
-  border-top-left-radius: 35px;
-  border-bottom-right-radius: 35px;
-}
+
 .title-text h1{
   font-size: 50px;
 }
@@ -100,6 +88,8 @@
 .features{
   flex-basis: 50%;
 }
+
+
 .features-img{
   flex-basis: 50%;
   margin: auto;
@@ -119,15 +109,7 @@
   align-items: center;
   margin-bottom: 40px;
 }
-.feature-icon .fa-solid{
-  width: 50px;
-  height: 50px;
-  font-size: 30px;
-  line-height: 50px;
-  border-radius: 8px;
-  color: #c468ee;
-  border: 1px solid #c468ee;
-}
+
 .feature-text p{
   padding: 0 20px;
   text-align: initial;
