@@ -3,7 +3,7 @@
 
 ## Content
 
-
+When making the MvP you first have to start with a plan. A plan is important 
 
 
 
