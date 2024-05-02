@@ -2,6 +2,9 @@
 
 ## Wireframes
 
+* [Mobile](https://wireframe.cc/u25D8C)
+* [Desktop](https://wireframe.cc/beivsp)
+
 ![Moblie](../img/wireframe1.png)
 ![Desktop](../img/wireframe2.png)
 
