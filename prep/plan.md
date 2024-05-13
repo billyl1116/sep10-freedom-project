@@ -30,6 +30,8 @@
 #### Beyond MVP
 
 * Add more animation css and animate css
-* add Grid and bootstrap
-* add color
-* word font
+* -[x]add Grid and bootstrap
+* -[x]add color
+* -[x]word font
+* -[]fix navbar
+* -[]fix contact
