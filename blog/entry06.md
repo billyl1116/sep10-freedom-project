@@ -23,6 +23,11 @@ First I looked at some free template on Bootstrap template, And I went and resea
 
 When creating the website I released an important css can impact the outcome of your website a lot, so I put my css in order of each section of my html, whatever section came first, I put my css in that order too, so the css wouldn't overlap each other
 
+### EDP
+
+I am at the 7th step of the EDP which is **Improve** the results because there is still many thing on my website I can improve for example the bootstrap, the background, and the animation css to make my website look way more interesting.
+
+
 ### Skill
 
 One skill I learn is how to used css and create cool animations and use css to format and organize your website, another skill is to seek help, whenever Im stuck at something, I look back at my note and see if there is a solution for it, if not I would look back at my old project and see what I did back than, that worked out. For example when I'm trying to create a navbar for my website, it didn't work out no matter how I change it, but when I go back to my old project I realized the Bootstrap link I used was out date and it help me fix my problem
