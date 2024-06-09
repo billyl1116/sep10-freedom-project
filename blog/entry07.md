@@ -70,7 +70,7 @@ I had a lot improvement in communion, because I was able to get better as giving
 
 
 
-[Previous](entry06.md) | [Next](entry08.md)
+[Previous](entry06.md) 
 
 
 
