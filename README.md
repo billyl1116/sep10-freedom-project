@@ -13,6 +13,4 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
+
